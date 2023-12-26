@@ -1,0 +1,27 @@
+_repo: Education-and-life_72291
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baker, James Hutchins
+    gutenberg_agent_id: '56634'
+    url: http://www.gutenberg.org/2009/agents/56634
+description: ''
+gutenberg_issued: '2023-12-02'
+identifiers:
+  gutenberg: '72291'
+language: en
+pgterms:marc904: https://archive.org/details/educationlife00bakerich
+pgterms:marc905: 20180522175110baker
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Bob Taylor, Turgut Dincer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bLongmans, Green and co., $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Education and life
+url: http://www.gutenberg.org/ebooks/72291
